@@ -1,0 +1,6 @@
+{
+  "name": "AeroTest Pro - Jet Engine Simulation & Test Bench",
+  "description": "Real-time aerospace turbofan engine simulation and test cell workstation. Conduct thermal spike, FOD, compressor stall, overspeed, and fire tests with live telemetry analytics, manual throttle control, and procedural cockpit & engine audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
